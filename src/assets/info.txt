@@ -1,0 +1,4 @@
+2022-03-08T08:51:05.566822400
+this is how to write in file,
+using java fileWriter class.
+author:: Mohamed EL YONOUSI
